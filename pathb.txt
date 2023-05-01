@@ -1,0 +1,2 @@
+#root=file:///C:/Users/anchor200/Desktop/Hakubutsu/BaseInsertPrj/tokyo01/
+#prj=ukiyoe1

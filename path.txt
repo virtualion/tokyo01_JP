@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/tokyo01_JP/
+#prj=ukiyoe1
